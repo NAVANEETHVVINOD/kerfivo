@@ -19,3 +19,9 @@ Date: 4 October 2026. This is a research/design deliverable, not an application 
 | Hosted CI | Not run | No application push/release. |
 
 No live laser control, connected application library, universal presets, exact resume, application benchmark or security certification is claimed. OS/public/local-first/library format scope is confirmed; the hardware verification contract still depends on controller/bed/power evidence. Publication of this package is documentation/design initialization, not an application release.
+
+## Desktop implementation checks
+
+Passed current local source: Vue/TypeScript production build, 19 Rust tests including actual SQLite save/close/reopen and real GitHub catalog download/integrity/cache/reopen. Earlier 15/16-test records are superseded by this run. Read-only source review findings were addressed, including bounded cut-pair iteration; construction/repeat/containment limits are explicit.
+
+Browser-only journeys inspected Home light/dark, shape creation, duplicate/undo/redo, locked hardware controls and desktop/minimum layout. Native-window installation/IPC and supervised machine behavior remain unverified. [Acceptance checklist](desktop-acceptance.md) records the missing tests. No application code push, release publication, merge or deployment was performed. The documentation/catalog commit 917701bf0b18f145eaa546b69b47d20dcef3f927 was pushed and verified against GitHub; no hosted CI runs existed at that checkpoint.

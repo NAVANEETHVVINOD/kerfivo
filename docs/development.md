@@ -23,3 +23,9 @@ A debug executable and optimized executable were built at this checkpoint. Two N
 C drive initially ran out of build space. Generated artifacts were relocated to this task's dedicated D:/CodexBuilds/kerfivo-2026-10-04-native/target and TEMP directory. Some owned generated C target fragments remain; subsequent builds use D without recursive cleanup. No user source was removed. Use the same CARGO_TARGET_DIR for future cargo/Tauri runs.
 
 GitHub now has issues #1–18. Initial public source publication must remain documentation/catalog only until required current-source native desktop acceptance passes. The active heartbeat should continue local editor/packaging/testing work, preserve unknown-hardware gates and report actual blockers rather than pretending the complete machine-control outcome is achieved.
+
+## Verified local checkpoint
+
+All 19 Rust checks passed with `--include-ignored`: 9 unit, 9 offline-core journeys and 1 real-network catalog journey. Frontend production build passed. The catalog was fetched from public commit 917701bf0b18f145eaa546b69b47d20dcef3f927, validated, persisted, reopened and imported without another network call. This is not native-window acceptance.
+
+NSIS packaging succeeded after the verified official tool cache was prepared; final source was rebuilt for the local pilot artifact. [Windows acceptance checklist](desktop-acceptance.md) records the outstanding native install/window/IPC journeys and hardware gates. The public repository currently contains documentation/catalog/concept only. Hosted workflow listing returned no runs; no CI pass is claimed.
