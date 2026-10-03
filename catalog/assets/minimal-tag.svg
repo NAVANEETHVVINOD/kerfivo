@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="60mm" height="30mm" viewBox="0 0 60 30">
+  <title>Minimal tag — original Kerfivo example</title>
+  <desc>Original example geometry. MIT license, copyright 2026 NAVANEETHVVINOD. No tested machine settings.</desc>
+  <g id="outer-cut" fill="none" stroke="#ae4309" stroke-width="0.2"><path d="M10 0.2H59.8V29.8H10L0.2 15Z"/></g>
+  <g id="inner-cut" fill="none" stroke="#ae4309" stroke-width="0.2"><circle cx="10" cy="15" r="2"/></g>
+  <g id="score" fill="none" stroke="#1a65b5" stroke-width="0.2"><path d="M22 11H50M22 19H42"/></g>
+</svg>

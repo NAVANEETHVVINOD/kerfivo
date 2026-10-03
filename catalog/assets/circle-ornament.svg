@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="80mm" height="80mm" viewBox="0 0 80 80">
+  <title>Circle ornament — original Kerfivo example</title>
+  <desc>Original example geometry. MIT license, copyright 2026 NAVANEETHVVINOD. No tested machine settings.</desc>
+  <g id="outer-cut" fill="none" stroke="#ae4309" stroke-width="0.2"><circle cx="40" cy="40" r="39.8"/></g>
+  <g id="score" fill="none" stroke="#1a65b5" stroke-width="0.2"><path d="M40 15L46 33L65 33L49 45L55 64L40 52L25 64L31 45L15 33L34 33Z"/></g>
+</svg>

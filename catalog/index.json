@@ -1,0 +1,71 @@
+{
+  "schema_version": 1,
+  "assets": [
+    {
+      "categories": [
+        "badges",
+        "education"
+      ],
+      "author": "NAVANEETHVVINOD",
+      "height_mm": 72,
+      "license_file": "../LICENSE",
+      "sha256": "79b79c1472e727f67247667ddfbb5bd8162462d2fd0b7d95aea86a65328ede39",
+      "format": "svg",
+      "tags": [
+        "badge",
+        "name",
+        "text"
+      ],
+      "title": "Maker badge",
+      "revision": 1,
+      "id": "maker-badge",
+      "asset": "assets/maker-badge.svg",
+      "source": "Original artwork created for Kerfivo",
+      "width_mm": 120,
+      "license": "MIT"
+    },
+    {
+      "categories": [
+        "ornaments"
+      ],
+      "author": "NAVANEETHVVINOD",
+      "height_mm": 80,
+      "license_file": "../LICENSE",
+      "sha256": "0b24b0cd7e0361a1012720fd2dc7eb5526633d7637e1464ce827b2593abf03dc",
+      "format": "svg",
+      "tags": [
+        "circle",
+        "gift"
+      ],
+      "title": "Circle ornament",
+      "revision": 1,
+      "id": "circle-ornament",
+      "asset": "assets/circle-ornament.svg",
+      "source": "Original artwork created for Kerfivo",
+      "width_mm": 80,
+      "license": "MIT"
+    },
+    {
+      "categories": [
+        "tags"
+      ],
+      "author": "NAVANEETHVVINOD",
+      "height_mm": 30,
+      "license_file": "../LICENSE",
+      "sha256": "284b7f336f64ddf61d05ab30c5a2923ac7bf41e4f3bbe249492f13b55efb2b7b",
+      "format": "svg",
+      "tags": [
+        "tag",
+        "label",
+        "gift"
+      ],
+      "title": "Minimal tag",
+      "revision": 1,
+      "id": "minimal-tag",
+      "asset": "assets/minimal-tag.svg",
+      "source": "Original artwork created for Kerfivo",
+      "width_mm": 60,
+      "license": "MIT"
+    }
+  ]
+}

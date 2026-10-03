@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="120mm" height="72mm" viewBox="0 0 120 72">
+  <title>Maker badge — original Kerfivo example</title>
+  <desc>Original example geometry. MIT license, copyright 2026 NAVANEETHVVINOD. No tested machine settings. Text needs font resolution or outlining before machining.</desc>
+  <g id="outer-cut" fill="none" stroke="#ae4309" stroke-width="0.2"><rect x="0.1" y="0.1" width="119.8" height="71.8" rx="10"/></g>
+  <g id="inner-cut" fill="none" stroke="#ae4309" stroke-width="0.2"><circle cx="15" cy="15" r="3"/></g>
+  <g id="engrave"><text x="60" y="36" text-anchor="middle" font-family="sans-serif" font-size="10" fill="#18232c">MAKE / CREATE</text></g>
+</svg>
